@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'kevin plus rachel condensed';
+    src: url('../font/kevinplusrachel-condensed.eot');
+    src: url('../font/kevinplusrachel-condensed.eot?#iefix') format('embedded-opentype'),
+        url('../font/kevinplusrachel-condensed.woff2') format('woff2'),
+        url('../font/kevinplusrachel-condensed.woff') format('woff'),
+        url('../font/kevinplusrachel-condensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
